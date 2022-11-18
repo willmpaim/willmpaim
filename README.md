@@ -1,5 +1,5 @@
 
-        `` Bem-vindo, sou William e busco aprender e me aprimorar nos conhecimentos de desenvolvimento front-end``
+        Bem-vindo, sou William e busco aprender e me aprimorar nos conhecimentos de desenvolvimento Front-end
 <div align="center">
   <a href="https://github.com/willmpaim">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=willmpaim&show_icons=true&theme=dark&include_all_commits=&count_private=true"/>
